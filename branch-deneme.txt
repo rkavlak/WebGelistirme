@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 Branch test edildi1.
-=======
-Branch deneme güncellendi.
->>>>>>> ar3ndy
