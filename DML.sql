@@ -1,4 +1,4 @@
-DDL SORGULARI
+DML SORGULARI
 
 
 Select ContactName Adi,CompanyName SirketAdi,City Sehir from Customers
