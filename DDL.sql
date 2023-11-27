@@ -1,3 +1,4 @@
+DDL SORGULARI
 CREATE TABLE productss (
     product_id INT PRIMARY KEY,
     product_name VARCHAR(255),
